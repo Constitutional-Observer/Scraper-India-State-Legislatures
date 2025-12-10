@@ -1,0 +1,4 @@
+requests>=2.25.1
+urllib3>=1.26.0
+internetarchive>=3.0.0
+beautifulsoup4>=4.9.0 

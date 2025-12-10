@@ -1,0 +1,5 @@
+raw
+mirror.log
+processed_documents.json
+table.json
+__pycache__
